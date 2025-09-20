@@ -1,0 +1,29 @@
+# Week1-StudentPerformance-EDA
+
+## Project Overview
+This project performs exploratory data analysis on a student performance dataset, focusing on features like gender, parental education, lunch type, and test preparation course.
+
+## Dataset
+The dataset contains scores in math, reading, and writing, along with demographic and preparation data.
+
+## Analysis Steps
+1. Loaded the dataset using pandas.
+2. Explored data structure and checked for missing values.
+3. Analyzed score patterns by grouping features.
+4. Visualized data with bar plots and histograms.
+5. Summarized insights on student performance.
+
+## Key Insights
+- Students completing test preparation course scored higher on average.
+- Parental education level strongly correlates with higher scores.
+- Gender differences in math scores were observed.
+- Lunch type correlates with test performance, hinting at socioeconomic factors.
+
+## How to Run
+- Open the `Week1-StudentPerformance-EDA.ipynb` notebook in Jupyter or Google Colab.
+- Ensure all libraries like pandas, seaborn, and matplotlib are installed.
+- Run all cells sequentially to reproduce analysis and visualizations.
+
+## Author
+Syed Yousuf Ahamed
+
